@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Nima Hoseini!
 
 - 🚀 Python Developer
-- 🌱 Currently learning and improving my skills in Deep Learning and Machine Learning
+- 🌱 Currently learning and improving my skills in Deep learning 
 - 📫 How to reach me: khodehnj@gmail.com
 -----------
 ## 🛠️ Skills 
