@@ -13,8 +13,6 @@
 | ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white) | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) | ![LightGBM](https://img.shields.io/badge/-LightGBM-017CEE?logo=lightgbm&logoColor=white) |
 ------------
 ## 📊 My GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=KHODEHNJ&theme=dark&hide_border=true)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KHODEHNJ&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KHODEHNJ&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KHODEHNJ&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KHODEHNJ&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KHODEHNJ&layout=compact&theme=dark)
