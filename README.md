@@ -1,4 +1,4 @@
- # Hi, I'm 
+ # Hi, I'm Nima
 
 - 🚀 Python Developer
 - 🌱 Currently learning and improving my skill to be better data analyst
