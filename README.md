@@ -1,4 +1,4 @@
- # 👋 Hi, I'm Nima Hoseini!
+ # Hi, I'm 
 
 - 🚀 Python Developer
 - 🌱 Currently learning and improving my skill to be better data analyst
@@ -14,11 +14,3 @@
 | ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) | ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white) | ![XGBoost](https://img.shields.io/badge/-XGBoost-017CEE?logo=xgboost&logoColor=white) |
 | ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white) | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) | ![LightGBM](https://img.shields.io/badge/-LightGBM-017CEE?logo=lightgbm&logoColor=white) |
 ------------
-## 📊 My GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KHODEHNJ&show_icons=true&theme=dark)
-
----------------------------------------------------------------------
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KHODEHNJ&layout=compact&theme=dark)
-
-
