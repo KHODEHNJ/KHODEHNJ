@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nima Hoseini!
+ # 👋 Hi, I'm Nima Hoseini!
 
 - 🚀 Python Developer
 - 🌱 Currently learning and improving my skill to be better data analyst
