@@ -1,64 +1,26 @@
-# Hi there, I'm Nima👋
+<div align="center">
 
-### 📊 Data Analyst | 🤖 Machine Learning Enthusiast | 🐍 Python Developer
+# 👋 Hey, I'm Nima
 
-I’m passionate about working with data, discovering meaningful insights,
-and building data-driven solutions.
 
-I enjoy transforming raw data into actionable insights through
-**Data Analysis, Machine Learning, Python, and Business Intelligence.**
+### 📊 Data Analyst • 🤖 ML Enthusiast • 🐍 Python Developer
 
----
+*Turning data into insights, and insights into decisions.*
 
-## 🚀 About Me
+<br/>
 
-- 📊 Focused on **Data Analysis & Business Intelligence**
-- 🤖 Exploring **Machine Learning & Predictive Modeling**
-- 🐍 Building data-driven solutions with **Python**
-- 📈 Creating interactive dashboards with **Power BI**
-- 🔍 Interested in finding patterns and insights hidden in data
-- 📚 Always learning and improving my technical skills
-- 💡 Interested in real-world problems that can be solved with data
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
-
-### 👨‍💻 Programming & Data
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-**Python • Pandas • NumPy • Matplotlib • Seaborn**
-
-### 🤖 Machine Learning
-
-**Scikit-learn • Regression • Classification • Clustering •
-Feature Engineering • Model Evaluation**
-
-### 📊 Data Analytics & BI
-
-**Power BI • Data Cleaning • Exploratory Data Analysis (EDA) •
-Data Visualization • Dashboard Development**
-
-### 🗄️ Databases
-
-**SQL • Data Extraction • Data Transformation**
-
----
-
-## 📈 What I Do
+## 🧠 About Me
 
 ```text
-Raw Data
-    ↓
-Data Cleaning
-    ↓
-Exploratory Data Analysis
-    ↓
-Data Visualization
-    ↓
-Machine Learning
-    ↓
-Insights & Decisions
+📊 Data Analytics
+🤖 Machine Learning
+🐍 Python
+📈 Power BI
+🗄️ SQL
