@@ -1,15 +1,64 @@
- # Hi, I'm Nima
+# Hi there, I'm [Your Name] 👋
 
-- 🚀 Python Developer
-- 🌱 Currently learning and improving my skill to be better data analyst
-- 📫 How to reach me: khodehnj@gmail.com
+### 📊 Data Analyst | 🤖 Machine Learning Enthusiast | 🐍 Python Developer
 
+I’m passionate about working with data, discovering meaningful insights,
+and building data-driven solutions.
 
------------
-## 🛠️ Skills 
+I enjoy transforming raw data into actionable insights through
+**Data Analysis, Machine Learning, Python, and Business Intelligence.**
 
-| Python 🐍         | Deep Learning 🧠       | Machine Learning 🤖     |
-|-------------------|------------------------|-------------------------|
-| ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) | ![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?logo=scikit-learn&logoColor=white) |
-| ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) | ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white) | ![XGBoost](https://img.shields.io/badge/-XGBoost-017CEE?logo=xgboost&logoColor=white) |
-| ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white) | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) | ![LightGBM](https://img.shields.io/badge/-LightGBM-017CEE?logo=lightgbm&logoColor=white) |
+---
+
+## 🚀 About Me
+
+- 📊 Focused on **Data Analysis & Business Intelligence**
+- 🤖 Exploring **Machine Learning & Predictive Modeling**
+- 🐍 Building data-driven solutions with **Python**
+- 📈 Creating interactive dashboards with **Power BI**
+- 🔍 Interested in finding patterns and insights hidden in data
+- 📚 Always learning and improving my technical skills
+- 💡 Interested in real-world problems that can be solved with data
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Programming & Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+**Python • Pandas • NumPy • Matplotlib • Seaborn**
+
+### 🤖 Machine Learning
+
+**Scikit-learn • Regression • Classification • Clustering •
+Feature Engineering • Model Evaluation**
+
+### 📊 Data Analytics & BI
+
+**Power BI • Data Cleaning • Exploratory Data Analysis (EDA) •
+Data Visualization • Dashboard Development**
+
+### 🗄️ Databases
+
+**SQL • Data Extraction • Data Transformation**
+
+---
+
+## 📈 What I Do
+
+```text
+Raw Data
+    ↓
+Data Cleaning
+    ↓
+Exploratory Data Analysis
+    ↓
+Data Visualization
+    ↓
+Machine Learning
+    ↓
+Insights & Decisions
