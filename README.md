@@ -19,10 +19,4 @@
 📈 Power BI
 🗄️ SQL
 
-| 📊 Data Analytics         | 🤖 Machine Learning |
-| :------------------------ | :------------------ |
-| Data Cleaning             | Predictive Modeling |
-| Exploratory Data Analysis | Classification      |
-| Data Visualization        | Regression          |
-| Business Intelligence     | Model Evaluation    |
-| Power BI Dashboards       | Feature Engineering |
+
