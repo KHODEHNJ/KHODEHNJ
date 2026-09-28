@@ -8,15 +8,3 @@
 *Turning data into insights, and insights into decisions.*
 
 
----
-
-## 🧠 About Me
-
-```text
-📊 Data Analytics
-🤖 Machine Learning
-🐍 Python
-📈 Power BI
-🗄️ SQL
-
-
