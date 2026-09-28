@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Nima👋
 
 ### 📊 Data Analyst | 🤖 Machine Learning Enthusiast | 🐍 Python Developer
 
